@@ -1,0 +1,9 @@
+---
+layout: post
+title: "New Post"
+date: 2014-12-09 09:22:23 -0500
+comments: true
+categories: 
+---
+
+First post
